@@ -1,4 +1,4 @@
-[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
+[🇬🇧 Engliish](README.md) | [🇫🇷 Français](README.fr.md)
 
 ---
 
