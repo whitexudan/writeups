@@ -1,3 +1,7 @@
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
+
+---
+
 # ShadowGate — Active Directory Pentest Walkthrough
 
 **Target:** `10.1.143.92`
